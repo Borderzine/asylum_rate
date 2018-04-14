@@ -2,7 +2,7 @@
 By [Christian Vasquez](htpp://twitter.com/chrismvasq)
 
 
-Dataviz for Borderzine.com for story on the immigration court system. 
+Dataviz appears on Borderzine.com alongside story on the immigration court system. 
 
 Data was scraped from [Transactional Records Access Clearinghouse](http://trac.syr.edu/immigration/reports/490/index.html) based out of Syracuse, N.Y.
 
