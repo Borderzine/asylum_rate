@@ -13,16 +13,15 @@
 
 ### Todo
 
-* [✗] Fill out explanations 
+* [✗] Fill out explanations, comment in code 
 
 * [✗] Fill out README.md
 
 ## Data used
 
 File (copy) | Source | Description | Nick in diary
---- | --- | ---
- [contracts_all.csv](./contracts_all.csv)| TRAC| Percent of asylum
- outcomes by immigration judges | IJ
+--- | --- | --- | ---
+ [CSV File](./trac_judge_asylum_2012_y.csv)| [TRAC](http://trac.syr.edu/immigration/reports/490/index.html) | % of asylum outcomes by immigration judges | IJ
  
 **************************************************************************
 ## Dict
