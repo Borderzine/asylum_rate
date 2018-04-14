@@ -5,9 +5,8 @@ import csv
 url = "http://trac.syr.edu/immigration/reports/490/include/table2.html"
 response = requests.get(url)
 html = response.content
-# Pass it through beautiful soup
 soup = BeautifulSoup(html, "html5lib")
-# Find the table of data we're looking for.
+# Find table, pass it through beautifulsoup
 table = soup.find('tbody', attrs={'class': None})
 # Start scraping the data
 list_of_rows = []
