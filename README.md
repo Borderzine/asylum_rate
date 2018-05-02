@@ -2,7 +2,8 @@
 By [Christian Vasquez](htpp://twitter.com/chrismvasq)
 
 
-Dataviz appears on Borderzine.com alongside story on the immigration court system. 
+Dataviz appears on Borderzine.com alongside story on the [immigration
+court system.](http://borderzine.com/2018/05/push-to-speed-up-immigration-courts-undercuts-justice-lawyers-say/) 
 
 Data was scraped from [Transactional Records Access Clearinghouse](http://trac.syr.edu/immigration/reports/490/index.html) based out of Syracuse, N.Y.
 
